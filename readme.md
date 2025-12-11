@@ -14,21 +14,53 @@
 ## 📸 Project Demo
 
 
-```bash
-# Sample output structure:
-/company/
-├── executive/
-│   ├── financial/
-│   └── strategy/
-├── projects/
-│   ├── frontend/
-│   └── backend/
-├── hr/
-│   ├── employee_records/
-│   └── policies/
-└── ... 
-```
 
+```bash
+# Tree 
+/company/
+├── executive
+│   ├── financial
+│   │   ├── payroll_data.txt
+│   │   └── Q4_2025_budget.txt
+│   └── strategy
+│       └── business_plan_2026.txt
+├── hr
+│   ├── employee_records
+│   │   ├── employee_contracts.txt
+│   │   └── salary_information.txt
+│   └── recruitment
+│       └── job_openings.txt
+├── intern
+│   └── learning
+│       ├── practice_exercises.txt
+│       └── tutorial_notes.txt
+├── marketing
+│   ├── campaigns
+│   │   └── Q1_2026_campaign.txt
+│   └── content
+│       └── blog_post_ideas.txt
+├── projects
+│   ├── backend
+│   │   └── api_development.txt
+│   ├── frontend
+│   │   └── homepage_redesign.txt
+│   ├── fullstack
+│   │   └── client_portal.txt
+│   └── mobile
+│       └── android_app.txt
+├── readme.md
+├── shared
+│   ├── general
+│   │   ├── announcements.txt
+│   │   └── company_handbook.txt
+│   └── meeting_notes
+│       └── weekly_standup_notes.txt
+└── testing
+    ├── reports
+    │   └── bug_report_001.txt
+    └── staging
+        └── test_environment_setup.txt
+```
 ---
 
 ## 🚀 Project Overview
